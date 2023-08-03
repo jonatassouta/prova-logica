@@ -1,0 +1,15 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\bin\Debug\net6.0\TAREFA2.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\bin\Debug\net6.0\TAREFA2.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\bin\Debug\net6.0\TAREFA2.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\bin\Debug\net6.0\TAREFA2.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\bin\Debug\net6.0\TAREFA2.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\refint\TAREFA2.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\ref\TAREFA2.dll

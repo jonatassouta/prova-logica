@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYQAMJN7x0F+3sHVIZK7dqKpVs+KKQQ5CY+VscRsrJbzwehblvVVqubEpRQ08VoOfJiUe+G1CauQ+Z24fu8Tbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Área de Trabalho\\Prova de Lógica\\prova-logica\\PovaLogica\\TAREFA1\\TAREFA1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
