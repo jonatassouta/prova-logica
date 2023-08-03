@@ -13,3 +13,5 @@ C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogi
 C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.pdb
 C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.genruntimeconfig.cache
 C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\ref\TAREFA2.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA2\obj\Debug\net6.0\TAREFA2.csproj.CopyComplete

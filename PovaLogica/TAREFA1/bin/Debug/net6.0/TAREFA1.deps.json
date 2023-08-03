@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "TAREFA2/1.0.0": {
+      "TAREFA1/1.0.0": {
         "dependencies": {
           "CsvHelper": "30.0.1"
         },
         "runtime": {
-          "TAREFA2.dll": {}
+          "TAREFA1.dll": {}
         }
       },
       "CsvHelper/30.0.1": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "TAREFA2/1.0.0": {
+    "TAREFA1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
