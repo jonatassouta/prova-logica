@@ -20,16 +20,16 @@ void BubbleSort(List<string> lista)
         {
             if (lista[j] != lista[0] && j <= lista.Count)
             {
-                int valor1 = Convert.ToInt32(lista[j].Split(',')[1]);
-                int valor2 = Convert.ToInt32(lista[j + 1].Split(',')[1]);
-                
+                int valor1 = Convert.ToInt32(lista[j].Split(';')[1]);
+                int valor2 = Convert.ToInt32(lista[j + 1].Split(';')[1]);
+
                 if (valor1 < valor2)
                 {
                     aux = lista[j];
                     lista[j] = lista[j + 1];
                     lista[j + 1] = aux;
                 }
-            }    
+            }
         }
     }
 }

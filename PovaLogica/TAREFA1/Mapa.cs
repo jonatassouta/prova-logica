@@ -17,7 +17,7 @@
         }
 
         public static implicit operator string(Mapa mapa)
-        => $"{mapa.Local},{mapa.Populacao}";
+        => $"{mapa.Local};{mapa.Populacao}";
 
         public static implicit operator Mapa(string line)
         {

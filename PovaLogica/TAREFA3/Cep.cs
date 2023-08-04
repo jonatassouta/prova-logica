@@ -1,11 +1,12 @@
 ﻿using Newtonsoft.Json;
+using System;
 
 namespace TAREFA3
 {
     public class Cep
     {
         [JsonProperty("cep")]
-        public int numeroCep { get; set; }
+        public string NumeroCep { get; set; }
         [JsonProperty("logradouro")]
         public string Logradouro { get; set; }
         [JsonProperty("complemento")]
@@ -16,7 +17,6 @@ namespace TAREFA3
         public string Localidade { get; set; }
         [JsonProperty("uf")]
         public string UF { get; set; }
-        [JsonProperty("unidade")]
         public string Unidade { get; set; }
         [JsonProperty("ibge")]
         public string Ibge { get; set; }
