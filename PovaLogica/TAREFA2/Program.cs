@@ -1,5 +1,4 @@
-﻿using System.Globalization;
-using TAREFA2;
+﻿using TAREFA2;
 
 
 var data = File.ReadAllLines("../../../../../mapa.csv", System.Text.Encoding.UTF8);
