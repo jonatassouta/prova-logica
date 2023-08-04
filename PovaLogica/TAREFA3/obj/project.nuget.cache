@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "p3czpSY+b/EMIpAmzegIWKJkFumqaM5hcURUWHjeTIjW6++w3QPeNECjd7DPZFA0sTmEGTVNIV0fBIe9IfzrzQ==",
+  "dgSpecHash": "82FUIGnyafGd1J7eg8Z2Nmk01zA1559W6UUt99QCplkoE8IxYUnip8D0j24DYRZyj0CkbXxUGrN11v+0kbmQ3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\OneDrive\\Área de Trabalho\\Prova de Lógica\\prova-logica\\PovaLogica\\TAREFA3\\TAREFA3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jonat\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+    "C:\\Users\\jonat\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\refit.newtonsoft.json\\7.0.0\\refit.newtonsoft.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
   ],
   "logs": []
 }

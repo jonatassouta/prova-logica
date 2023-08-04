@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var file = File.ReadAllLines("../../../../../CEPs.csv");
+
+foreach (var line in file)
+{
+    var txt = line.Split(';')[0];
+    var ceps = txt.Replace("-", "").Replace(" ", "");
+    Console.WriteLine(ceps);
+    
+}
+
+Console.Read();
