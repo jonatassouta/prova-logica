@@ -15,3 +15,10 @@ C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogi
 C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\obj\Debug\net6.0\TAREFA3.pdb
 C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\obj\Debug\net6.0\TAREFA3.genruntimeconfig.cache
 C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\obj\Debug\net6.0\ref\TAREFA3.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\Refit.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\Refit.Newtonsoft.Json.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\Prova de Lógica\prova-logica\PovaLogica\TAREFA3\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
