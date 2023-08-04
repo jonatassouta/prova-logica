@@ -42,8 +42,6 @@ foreach (var i in lista)
 }
 Console.WriteLine("---------------------------------");
 Console.WriteLine("Arquivo salvo na pasta do projeto: mapa-ordenado-bubblesort.csv");
-//Usar a função do c#
-//Array.Sort();
 
 File.WriteAllLines(@"../../../../../mapa-ordenado-bubblesort.csv", lista, System.Text.Encoding.UTF8);
 Console.Read();
