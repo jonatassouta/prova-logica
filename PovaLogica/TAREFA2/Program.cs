@@ -1,35 +1,49 @@
-﻿int temp;
-int[] lista = new int[10];
+﻿using System.Globalization;
+using TAREFA2;
 
-Random numeroAleatorio = new Random();
 
-for (int i = 0; i < 10; i++)
+var data = File.ReadAllLines("../../../../../mapa.csv", System.Text.Encoding.UTF8);
+Mapa locais = new Mapa();
+var lista = new List<string>();
+var aux = "";
+
+foreach (var line in data)
 {
-    lista[i] = numeroAleatorio.Next(1, 100);
-    Console.Write(lista[i] + " ");
-};
-Console.WriteLine("\n----------------------------");
-void BubbleSort(int[] valor)
+    locais = line;
+    lista.Add(locais);
+}
+
+void BubbleSort(List<string> lista)
 {
-    for (int i = 1; i < valor.Length; i++)
+    for (int i = 1; i < lista.Count; i++)
     {
-        for (int j = 0; j < valor.Length - 1; j++)
+        for (int j = 0; j < lista.Count - 1; j++)
         {
-            if (valor[j] > valor[j + 1])
+            if (lista[j] != lista[0] && j <= lista.Count)
             {
-                temp = valor[j];
-                valor[j] = valor[j + 1];
-                valor[j + 1] = temp;
-            }
+                int valor1 = Convert.ToInt32(lista[j].Split(',')[1]);
+                int valor2 = Convert.ToInt32(lista[j + 1].Split(',')[1]);
+                
+                if (valor1 < valor2)
+                {
+                    aux = lista[j];
+                    lista[j] = lista[j + 1];
+                    lista[j + 1] = aux;
+                }
+            }    
         }
-    }
-
-    foreach (int i in valor)
-    {
-        Console.Write(i + " ");
     }
 }
 
 BubbleSort(lista);
 
+foreach (var i in lista)
+{
+    Console.WriteLine(i);
+}
+
+//Usar a função do c#
+//Array.Sort();
+
+File.WriteAllLines(@"../../../../../mapa-ordenado-bubblesort.csv", lista, System.Text.Encoding.UTF8);
 Console.Read();
